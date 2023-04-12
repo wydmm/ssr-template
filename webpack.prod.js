@@ -6,6 +6,7 @@ module.exports = {
     minimizer: [
       new TerserPlugin({
         terserOptions: {
+          mangle: true, // mangle
           format: {
             comments: false,
           },
