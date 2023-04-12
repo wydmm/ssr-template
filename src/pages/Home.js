@@ -2,9 +2,9 @@ import React from 'react';
 
 const Home = () => {
   return (
-    <div>
+    <React.Fragment>
       <h3>Home Page !</h3>
-    </div>
+    </React.Fragment>
   );
 };
 
