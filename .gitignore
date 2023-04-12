@@ -1,0 +1,14 @@
+**/node_modules
+
+.DS_Store
+.idea
+*.cpuprofile
+*.local
+*.log
+/.vscode/
+build
+public
+node_modules
+temp
+.eslintcache
+pnpm-lock.yaml
